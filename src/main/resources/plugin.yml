@@ -1,0 +1,8 @@
+name: ServerSpy
+version: '${project.version}'
+main: com.infinityatom.serverspy.ServerSpy
+api-version: 1.20
+commands:
+  serverspy:
+    description: Info about the plugin.
+    usage: /<command> [info|reload]
